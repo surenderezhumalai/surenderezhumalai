@@ -18,26 +18,6 @@ Web Development: HTML, CSS, JavaScript
 
 Tools & Technologies: Git, GitHub, SQL
 
-
-## 🌟 Key Projects
-### 1. Network Intrusion Detection System (NIDS)
-A Django-based system to detect and alert network intrusions using both anomaly and signature-based models.
-- **Technologies**: Python, Django, Machine Learning (TensorFlow), PyShark
-- **Features**: Packet analysis, real-time alerts.
-- **Live Demo**: [Demo Link](https://github.com/YourGitHubUsername/NIDS-Project)
-
-### 2. AI-Based E-Commerce Recommendation System
-A smart shopping platform powered by AI to offer personalized product recommendations.
-- **Technologies**: Python, TensorFlow, Django, Bootstrap
-- **Features**: Login, product prediction, and analytics.
-- **Live Demo**: [Demo Link](https://github.com/YourGitHubUsername/ECommerce-AI)
-
-### 3. Face Recognition Attendance System
-Uses OpenCV and deep learning to mark attendance via facial recognition.
-- **Technologies**: Python, OpenCV, TensorFlow, Flask
-- **Features**: Face detection, training, recognition.
-- **Live Demo**: [Demo Link](https://github.com/YourGitHubUsername/Face-Attendance)
-
 ## 🛠 Tech Stack
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -46,6 +26,12 @@ Uses OpenCV and deep learning to mark attendance via facial recognition.
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
 
 ## 💬 Testimonials
 - "Surender is a passionate developer who combines creativity with deep technical skills." – Former Trainer / Peer / Mentor
