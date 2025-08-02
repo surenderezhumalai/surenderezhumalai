@@ -22,11 +22,6 @@
 - Contributed to open source: (e.g., bug fixes, small PRs, improvements)
 - Participated in GitHub issues for Django/Flask or other tech stacks.
 
-## 🔥 GitHub Activity
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YourGitHubUsername&theme=react-dark&hide_border=false&area=true" />
-</p>
-
 ## 💡 Favorite Quote
 "Success is not final, failure is not fatal: It is the courage to continue that counts." – Winston Churchill
 
