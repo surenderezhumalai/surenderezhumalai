@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=blue&center=true&vCenter=true&random=false&width=435&lines=Hey+there%2C+I'm+Surender" />
 </h1>
 
-![Visitors](https://komarev.com/ghpvc/?username=YourGitHubUsername&color=blueviolet)
+![Visitors](https://komarev.com/ghpvc/?username=surenderezhumalai&color=blueviolet)
 
 ## 🔨 What I'm Currently Working On
 - Developing intelligent intrusion detection solutions using Python and Django.
