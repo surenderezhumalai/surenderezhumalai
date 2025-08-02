@@ -17,18 +17,7 @@ Programming Languages: Python, Java, C
 Web Development: HTML, CSS, JavaScript
 
 Tools & Technologies: Git, GitHub, SQL
-## 🌍 Open Source Contributions
-- Contributed to open source: (e.g., bug fixes, small PRs, improvements)
-- Participated in GitHub issues for Django/Flask or other tech stacks.
 
-## 💡 Favorite Quote
-"Success is not final, failure is not fatal: It is the courage to continue that counts." – Winston Churchill
-
-## 🏅 Coding Challenges
-![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=YourLeetCodeUsername)
-
-## 📄 View My Resume
-[Resume PDF](https://github.com/YourGitHubUsername/resume.pdf)
 
 ## 🌟 Key Projects
 ### 1. Network Intrusion Detection System (NIDS)
