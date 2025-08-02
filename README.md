@@ -4,20 +4,19 @@
 
 ![Visitors](https://komarev.com/ghpvc/?username=surenderezhumalai&color=blueviolet)
 
-## 🔨 What I'm Currently Working On
-- Developing intelligent intrusion detection solutions using Python and Django.
-- Building an AI-driven recommendation engine for personalized shopping experiences.
+Hi, I’m Surender! 👋
+I’m a third-year Information Technology student at Manakula Vinayagar Institute of Technology.
+Passionate about coding, software development, and exploring new technologies.
+Currently honing my skills in full-stack development, data structures, and algorithms.
+Eager to collaborate on exciting projects and contribute to open-source communities.
 
-## 🏅 Certifications and Achievements
-- IT Specialist - Python [Certiport](https://www.certiport.com/) *(if you have this or any others, list here)*
-- Programming Essentials in C [Cisco Networking Academy](https://www.netacad.com/)
-- Completed Full Stack Java Training (TNS India Foundation or your own source)
-- Participant in tech hackathons and coding contests.
+Tech Interests:
 
-## 📝 Latest Articles
-- [My thoughts on staying current in tech](YourLinkedInOrBlogLink)
-- [Deep Dive into Java 8](YourLinkedInOrBlogLink)
+Programming Languages: Python, Java, C
 
+Web Development: HTML, CSS, JavaScript
+
+Tools & Technologies: Git, GitHub, SQL
 ## 🌍 Open Source Contributions
 - Contributed to open source: (e.g., bug fixes, small PRs, improvements)
 - Participated in GitHub issues for Django/Flask or other tech stacks.
